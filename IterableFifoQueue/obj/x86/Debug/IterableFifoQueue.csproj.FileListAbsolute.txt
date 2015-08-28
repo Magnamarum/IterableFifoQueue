@@ -1,0 +1,4 @@
+C:\Users\David\Documents\IterableFifoQueue\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\David\Documents\IterableFifoQueue\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\obj\x86\Debug\ConsoleApplication1.pdb
