@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{393BD281-2F83-41EA-BD6B-D22D9D3AC60A}</ProjectGuid>
+    <ProjectGuid>{848AAE78-2405-400F-BF87-D0C528B0A6D1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>IterableFifoQueueTest</RootNamespace>
@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\IterableFifoQueue\IterableFifoQueue.csproj">
-      <Project>{B529ADBC-2CC9-4515-9909-7219D813D7E6}</Project>
+      <Project>{AC35A30A-BDF6-457F-AA90-616D1C5C41E8}</Project>
       <Name>IterableFifoQueue</Name>
     </ProjectReference>
   </ItemGroup>

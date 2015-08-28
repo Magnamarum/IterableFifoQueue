@@ -1,6 +1,10 @@
-C:\Users\David\Documents\IterableFifoQueue\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
-C:\Users\David\Documents\IterableFifoQueue\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
-C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\obj\x86\Debug\ConsoleApplication1.exe
-C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\obj\x86\Debug\ConsoleApplication1.pdb
-C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\bin\Debug\ConsoleApplication1.exe
-C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\bin\Debug\ConsoleApplication1.pdb
+C:\Users\David\AppData\Local\Temporary Projects\IterableFifoQueue\bin\Debug\IterableFifoQueue.exe
+C:\Users\David\AppData\Local\Temporary Projects\IterableFifoQueue\bin\Debug\IterableFifoQueue.pdb
+C:\Users\David\AppData\Local\Temporary Projects\IterableFifoQueue\obj\x86\Debug\IterableFifoQueue.exe
+C:\Users\David\AppData\Local\Temporary Projects\IterableFifoQueue\obj\x86\Debug\IterableFifoQueue.pdb
+C:\Users\David\Dropbox\IterableFifoQueue\IterableFifoQueue\obj\x86\Debug\IterableFifoQueue.exe
+C:\Users\David\Dropbox\IterableFifoQueue\IterableFifoQueue\obj\x86\Debug\IterableFifoQueue.pdb
+C:\Users\David\Dropbox\IterableFifoQueue\IterableFifoQueue\bin\Debug\IterableFifoQueue.exe
+C:\Users\David\Dropbox\IterableFifoQueue\IterableFifoQueue\bin\Debug\IterableFifoQueue.pdb
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\obj\x86\Debug\IterableFifoQueue.exe
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\obj\x86\Debug\IterableFifoQueue.pdb

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace IterableFifoQueue
 {
-    class CustomQueue<T> : List<Element>
+    public class CustomQueue<T> : List<Element>
     {
         public void Enqueue(Element e)
         {
@@ -23,7 +23,8 @@ namespace IterableFifoQueue
                 else
                 {
                     int index = 0;
-                    foreach (Element x in this) {
+                    foreach (Element x in this)
+                    {
                         if (x.getPriority() >= e.getPriority()) index++;
                         else break;
                     }
