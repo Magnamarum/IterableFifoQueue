@@ -10,13 +10,10 @@ namespace IterableFifoQueue
         static void Main(string[] args)
         {
             CustomQueue<Element> elementos = new CustomQueue<Element>();
-            elementos.Enqueue(new Element(5, "D"));
-            elementos.Enqueue(new Element(6, "A"));
-            elementos.Enqueue(new Element(5, "E"));
-            elementos.Enqueue(new Element(6, "B"));
-            elementos.Enqueue(new Element(5, "F"));
-            elementos.Enqueue(new Element(6, "C"));
-
+            Random rand = new Random();
+            for (int i = 0; i < 150; i++) {
+                elementos.Enqueue(new Element(rand.Next(1, 10), " "+i));
+            }
             Console.Out.WriteLine("Foreach Iterator");
             foreach (Element e in elementos) {
                 Console.Out.WriteLine(e.getText()+" "+e.getPriority());
@@ -33,37 +30,6 @@ namespace IterableFifoQueue
 
         }
     }
-    class CustomQueue<T> : List<Element>
-    {
-        public void Enqueue(Element e) {
-            if (this.Count==0) this.Add(e);
-            else
-            {
-                if (e.getPriority() <= this.Last().getPriority())
-                {
-                    this.Insert(this.Count,e);
-                }
-                else if (e.getPriority() > this.First().getPriority())
-                {
-                    this.Insert(0, e);
-                }
-                else {
-                    int index = 0;
-                    foreach (Element x in this) {
-                        if (x.getPriority() >= e.getPriority()) index++;
-                    }
-                    this.Insert(index, e);
-                }
-
-            }
-        }
-
-        public Element Dequeue()
-        {
-            Element e = this.First();
-            this.Remove(e);
-            return e;
-        }
-    }
+    
     
 }
