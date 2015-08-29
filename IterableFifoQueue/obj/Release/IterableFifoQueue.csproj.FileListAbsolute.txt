@@ -1,0 +1,5 @@
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\bin\Release\IterableFifoQueue.dll
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\bin\Release\IterableFifoQueue.pdb
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\obj\Release\IterableFifoQueue.dll
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\obj\Release\IterableFifoQueue.pdb
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueue\obj\Release\IterableFifoQueue.csprojResolveAssemblyReference.cache

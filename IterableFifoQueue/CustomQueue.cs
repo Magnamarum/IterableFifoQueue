@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Collections;
 
 namespace IterableFifoQueue
 {
@@ -36,9 +35,17 @@ namespace IterableFifoQueue
 
         public Element Dequeue()
         {
-            Element e = this.First();
-            this.Remove(e);
+            Element e = new Element(this.First().getPriority(), this.First().getText());
+            this.RemoveAt(0);
             return e;
+        }
+
+        public Element Peek() {
+            return this.First();
+        }
+
+        public Element LowerPriority() {
+            return this.Last();
         }
     }
 }

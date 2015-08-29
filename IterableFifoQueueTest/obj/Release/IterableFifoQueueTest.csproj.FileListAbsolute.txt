@@ -1,0 +1,9 @@
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Release\IterableFifoQueueTest.dll
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Release\IterableFifoQueueTest.pdb
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Release\IterableFifoQueue.dll
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Release\nunit.framework.dll
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Release\IterableFifoQueue.pdb
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Release\nunit.framework.xml
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\obj\Release\IterableFifoQueueTest.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\obj\Release\IterableFifoQueueTest.dll
+C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\obj\Release\IterableFifoQueueTest.pdb
