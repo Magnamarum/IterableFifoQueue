@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-08-29" time="10:04:18">
+<test-results name="C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-08-30" time="11:03:00">
   <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="DAVID-PC" user="David" user-domain="David-PC" />
   <culture-info current-culture="es-ES" current-uiculture="es-ES" />
-  <test-suite type="Assembly" name="C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll" executed="True" result="Success" success="True" time="0.223" asserts="0">
+  <test-suite type="Assembly" name="C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll" executed="True" result="Success" success="True" time="0.283" asserts="0">
     <results>
-      <test-suite type="Namespace" name="IterableFifoQueueTest" executed="True" result="Success" success="True" time="0.204" asserts="0">
+      <test-suite type="Namespace" name="IterableFifoQueueTest" executed="True" result="Success" success="True" time="0.266" asserts="0">
         <results>
-          <test-suite type="TestFixture" name="Tests" executed="True" result="Success" success="True" time="0.202" asserts="0">
+          <test-suite type="TestFixture" name="Tests" executed="True" result="Success" success="True" time="0.263" asserts="0">
             <results>
-              <test-suite type="ParameterizedTest" name="testQueueAddAValue" executed="True" result="Success" success="True" time="0.073" asserts="0">
+              <test-suite type="ParameterizedTest" name="testQueueAddAValue" executed="True" result="Success" success="True" time="0.228" asserts="0">
                 <results>
-                  <test-case name="IterableFifoQueueTest.Tests.testQueueAddAValue()" executed="True" result="Success" success="True" time="0.066" asserts="1" />
+                  <test-case name="IterableFifoQueueTest.Tests.testQueueAddAValue()" executed="True" result="Success" success="True" time="0.218" asserts="1" />
                 </results>
               </test-suite>
               <test-suite type="ParameterizedTest" name="testQueueAddMaxValue" executed="True" result="Success" success="True" time="0.003" asserts="0">
@@ -19,7 +19,7 @@
                   <test-case name="IterableFifoQueueTest.Tests.testQueueAddMaxValue()" executed="True" result="Success" success="True" time="0.002" asserts="1" />
                 </results>
               </test-suite>
-              <test-suite type="ParameterizedTest" name="testQueueAddMinValue" executed="True" result="Success" success="True" time="0.104" asserts="0">
+              <test-suite type="ParameterizedTest" name="testQueueAddMinValue" executed="True" result="Success" success="True" time="0.002" asserts="0">
                 <results>
                   <test-case name="IterableFifoQueueTest.Tests.testQueueAddMinValue()" executed="True" result="Success" success="True" time="0.001" asserts="1" />
                 </results>

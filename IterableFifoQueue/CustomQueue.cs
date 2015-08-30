@@ -21,13 +21,41 @@ namespace IterableFifoQueue
                 }
                 else
                 {
-                    int index = 0;
-                    foreach (Element x in this)
+                    int higher = Count - 1;
+                    int middle = higher / 2;
+                    int lower = 0;
+                    bool found = false;
+                    while (lower <= higher && !found)
                     {
-                        if (x.getPriority() >= e.getPriority()) index++;
-                        else break;
+                        middle = (lower + higher) / 2;
+                        if (this[middle].getPriority() > e.getPriority())
+                        {
+                            lower = middle + 1;
+                        }
+                        else if (this[middle].getPriority() < e.getPriority())
+                        {
+                            higher = middle - 1;
+                        }
+                        else if (this[middle].getPriority() == e.getPriority())
+                        {
+                            while (this[middle].getPriority() == e.getPriority())
+                            {
+                                middle++;
+                            }
+                            found = true;
+                        }
+
                     }
-                    this.Insert(index, e);
+                    if (!found)
+                    {
+                        middle = 0;
+                        foreach (Element x in this)
+                        {
+                            if (x.getPriority() >= e.getPriority()) middle++;
+                            else break;
+                        }
+                    }
+                    this.Insert(middle, e);
                 }
 
             }

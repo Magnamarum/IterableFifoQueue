@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
-  <TopNode>[0-1011]C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll</TopNode>
-  <SelectedNode>[0-1011]C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll</SelectedNode>
+  <TopNode>[0-1009]C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll</TopNode>
+  <SelectedNode>[0-1009]C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
-    <Node UniqueName="[0-1011]C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll" Expanded="true" />
-    <Node UniqueName="[0-1012]IterableFifoQueueTest" Expanded="true" />
+    <Node UniqueName="[0-1009]C:\Users\David\Documents\IterableFifoQueue\IterableFifoQueueTest\bin\Debug\IterableFifoQueueTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]IterableFifoQueueTest" Expanded="true" />
     <Node UniqueName="[0-1000]IterableFifoQueueTest.Tests" Expanded="true" />
     <Node UniqueName="[0-1001]IterableFifoQueueTest.Tests.testQueueAddAValue" Expanded="true" />
     <Node UniqueName="[0-1003]IterableFifoQueueTest.Tests.testQueueAddMaxValue" Expanded="true" />
-    <Node UniqueName="[0-1007]IterableFifoQueueTest.Tests.testQueueAddMediumValue" Expanded="true" />
     <Node UniqueName="[0-1005]IterableFifoQueueTest.Tests.testQueueAddMinValue" Expanded="true" />
-    <Node UniqueName="[0-1009]IterableFifoQueueTest.Tests.testQueueSecuenceInOrder" Expanded="true" />
+    <Node UniqueName="[0-1007]IterableFifoQueueTest.Tests.testQueueSecuenceInOrder" Expanded="true" />
   </Nodes>
 </VisualState>
